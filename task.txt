@@ -1,4 +1,8 @@
 这是一个task的测试文件
 gfjgjffjh
 woshi谁呀。。。
+<<<<<<< HEAD
 2..这是增加的一个动词
+=======
+3333...这是user2的车市语句！！！
+>>>>>>> 1f74d8a7c94a3ba5e3ffae11276c4d1af178febe
